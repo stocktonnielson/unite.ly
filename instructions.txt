@@ -3,10 +3,11 @@ this will also make the assumption you downloaded the cypress file from github
 you will also need node js which can be downloaded here https://nodejs.org/en/download/
 
 
-1: open visual studio code 
-2: navigate the the top bar and hit file and select open folder
-3: open the cypress folder you downloaded from github
-4: in the command line type "npx cypress open"
-5: this should open a cypress window from there you can select the script you want to run
+ open visual studio code 
+ in the command line type in "npm install cypress" this will take a bit
+ navigate the the top bar and hit file and select open folder
+ open the cypress folder you downloaded from github
+ in the command line type "npx cypress open"
+ this should open a cypress window from there you can select the script you want to run
 
 
